@@ -1,1 +1,1 @@
-# tecsup.01
+# tecsup-01
