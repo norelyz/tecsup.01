@@ -1,0 +1,134 @@
+id_producto,nombre_producto,categoria,costo_unitario,marca
+1001,Paracetamol capsulas 250mg,Analgésicos,15.49,Sandoz
+1002,Paracetamol capsulas 250mg,Analgésicos,13.33,Bayer
+1003,Paracetamol jarabe 120ml,Analgésicos,37.28,Sandoz
+1004,Paracetamol suspensión 60ml,Analgésicos,12.29,Bayer
+1005,Paracetamol crema 30g,Analgésicos,5.46,Pfizer
+1006,Paracetamol crema 30g,Analgésicos,17.77,Pfizer
+1007,Ibuprofeno tabletas 500mg,Analgésicos,25.04,Medifarma
+1008,Ibuprofeno capsulas 250mg,Analgésicos,35.12,Genfar
+1009,Ibuprofeno jarabe 120ml,Analgésicos,49.34,MK
+1010,IBUPROFENO SUSPENSIÓN 60ML  ,Analgésicos,77.93,La Santé
+1011,Ibuprofeno crema 30g,Analgésicos,8.16,Medifarma
+1012,Ibuprofeno jarabe 120ml,Analgésicos,31.21,Pfizer
+1013,Ibuprofeno tabletas 500mg,Analgésicos,4.67,Bayer
+1014,Naproxeno tabletas 500mg,Analgésicos,6.14,Pfizer
+1015,Naproxeno tabletas 500mg,Analgésicos,77.28,MK
+1016,Naproxeno tabletas 200mg,Analgésicos,25.06,Sandoz
+1017,Naproxeno tabletas 200mg,Analgésicos,55.05,La Santé
+1018,Naproxeno suspensión 60ml,Analgésicos,10.64,Sandoz
+1019,Naproxeno jarabe 120ml,Analgésicos,72.84,Pfizer
+1020,NAPROXENO TABLETAS 200MG  ,Analgésicos,53.34,MK
+1021,Diclofenaco suspensión 60ml,Analgésicos,15.6,La Santé
+1022,Diclofenaco tabletas 200mg,Analgésicos,62.24,MK
+1023,Diclofenaco tabletas 200mg,Analgésicos,71.69,Medifarma
+1024,Diclofenaco crema 30g,Analgésicos,16.48,Genfar
+1025,Aspirina capsulas 250mg,Analgésicos,22.44,Sandoz
+1026,ASPIRINA TABLETAS 200MG  ,Analgésicos,77.26,Pfizer
+1027,Aspirina suspensión 60ml,Analgésicos,22.8,Sandoz
+1028,Aspirina capsulas 250mg,Analgésicos,6.89,La Santé
+1029,Aspirina tabletas 500mg,Analgésicos,62.01,Pfizer
+1030,ASPIRINA JARABE 120ML  ,Analgésicos,16.71,Bayer
+1031,Aspirina jarabe 120ml,Analgésicos,61.93,Sandoz
+1032,Amoxicilina tabletas 200mg,Antibióticos,10.15,La Santé
+1033,Amoxicilina tabletas 500mg,Antibióticos,50.24,MK
+1034,Amoxicilina tabletas 500mg,Antibióticos,6.02,La Santé
+1035,Amoxicilina crema 30g,Antibióticos,26.69,Bayer
+1036,Azitromicina crema 30g,Antibióticos,71.09,Genfar
+1037,Azitromicina jarabe 120ml,Antibióticos,10.45,Medifarma
+1038,Azitromicina jarabe 120ml,Antibióticos,61.1,MK
+1039,Azitromicina crema 30g,Antibióticos,40.01,Genfar
+1040,Azitromicina tabletas 200mg,Antibióticos,3.01,Sandoz
+1041,Azitromicina jarabe 120ml,Antibióticos,3.48,La Santé
+1042,Ciprofloxacino suspensión 60ml,Antibióticos,45.5,Pfizer
+1043,Ciprofloxacino crema 30g,Antibióticos,12.01,La Santé
+1044,Ciprofloxacino capsulas 250mg,Antibióticos,43.65,Sandoz
+1045,Claritromicina capsulas 250mg,Antibióticos,7.08,Bayer
+1046,Claritromicina jarabe 120ml,Antibióticos,13.74,MK
+1047,Claritromicina tabletas 200mg,Antibióticos,64.84,Genfar
+1048,Claritromicina capsulas 250mg,Antibióticos,69.85,Pfizer
+1049,Claritromicina suspensión 60ml,Antibióticos,15.74,Medifarma
+1050,Claritromicina crema 30g,Antibióticos,43.61,MK
+1051,Antigripal Forte tabletas 500mg,Antigripales,26.12,Genfar
+1052,Antigripal Forte tabletas 500mg,Antigripales,19.01,Medifarma
+1053,ANTIGRIPAL FORTE TABLETAS 500MG  ,Antigripales,65.62,Genfar
+1054,Antigripal Forte jarabe 120ml,Antigripales,1.55,Bayer
+1055,Antigripal Forte tabletas 500mg,Antigripales,39.3,Genfar
+1056,Antigripal Forte jarabe 120ml,Antigripales,22.28,La Santé
+1057,Loratadina crema 30g,Antigripales,18.28,Genfar
+1058,Loratadina suspensión 60ml,Antigripales,29.73,Genfar
+1059,Loratadina tabletas 200mg,Antigripales,77.03,Medifarma
+1060,Loratadina tabletas 200mg,Antigripales,57.27,Sandoz
+1061,Loratadina tabletas 500mg,Antigripales,79.82,Bayer
+1062,Cetirizina tabletas 200mg,Antigripales,40.71,Medifarma
+1063,Cetirizina capsulas 250mg,Antigripales,28.26,Genfar
+1064,Cetirizina jarabe 120ml,Antigripales,54.78,Sandoz
+1065,CLORFENIRAMINA TABLETAS 200MG  ,Antigripales,78.87,La Santé
+1066,Clorfeniramina suspensión 60ml,Antigripales,7.39,Bayer
+1067,Clorfeniramina tabletas 500mg,Antigripales,58.53,Sandoz
+1068,Clorfeniramina suspensión 60ml,Antigripales,78.69,Medifarma
+1069,Clorfeniramina jarabe 120ml,Antigripales,65.5,Genfar
+1070,Clorfeniramina tabletas 500mg,Antigripales,26.34,Medifarma
+1071,Alcohol en gel jarabe 120ml,Cuidado Personal,47.68,Bayer
+1072,Alcohol en gel suspensión 60ml,Cuidado Personal,2.31,Bayer
+1073,Alcohol en gel jarabe 120ml,Cuidado Personal,28.54,La Santé
+1074,Alcohol en gel suspensión 60ml,Cuidado Personal,75.3,La Santé
+1075,Alcohol en gel tabletas 200mg,Cuidado Personal,67.18,Bayer
+1076,Alcohol en gel suspensión 60ml,Cuidado Personal,59.08,MK
+1077,Alcohol en gel crema 30g,Cuidado Personal,55.97,La Santé
+1078,Mascarilla KN95 tabletas 200mg,Cuidado Personal,78.59,Pfizer
+1079,Mascarilla KN95 suspensión 60ml,Cuidado Personal,21.61,Genfar
+1080,Mascarilla KN95 crema 30g,Cuidado Personal,71.88,Sandoz
+1081,Mascarilla KN95 jarabe 120ml,Cuidado Personal,15.91,Genfar
+1082,Mascarilla KN95 jarabe 120ml,Cuidado Personal,56.33,Bayer
+1083,Mascarilla KN95 suspensión 60ml,Cuidado Personal,71.08,Genfar
+1084,Jabón antibacterial jarabe 120ml,Cuidado Personal,74.92,Pfizer
+1085,Jabón antibacterial crema 30g,Cuidado Personal,53.85,Medifarma
+1086,Jabón antibacterial jarabe 120ml,Cuidado Personal,30.41,Genfar
+1087,Jabón antibacterial jarabe 120ml,Cuidado Personal,77.92,MK
+1088,Jabón antibacterial crema 30g,Cuidado Personal,44.35,Medifarma
+1089,Jabón antibacterial jarabe 120ml,Cuidado Personal,52.5,Genfar
+1090,Enjuague bucal tabletas 500mg,Cuidado Personal,2.43,Medifarma
+1091,Enjuague bucal capsulas 250mg,Cuidado Personal,15.13,La Santé
+1092,Enjuague bucal jarabe 120ml,Cuidado Personal,52.95,Genfar
+1093,Enjuague bucal suspensión 60ml,Cuidado Personal,41.2,Medifarma
+1094,Enjuague bucal crema 30g,Cuidado Personal,20.28,Medifarma
+1095,Enjuague bucal crema 30g,Cuidado Personal,32.05,Medifarma
+1096,Vitamina C jarabe 120ml,Vitaminas,63.79,Medifarma
+1097,Vitamina C tabletas 500mg,Vitaminas,46.58,Genfar
+1098,Vitamina C capsulas 250mg,Vitaminas,19.18,Bayer
+1099,Vitamina C suspensión 60ml,Vitaminas,2.92,Genfar
+1100,Vitamina C tabletas 500mg,Vitaminas,79.57,Medifarma
+1101,Vitamina D crema 30g,Vitaminas,73.27,Bayer
+1102,Vitamina D suspensión 60ml,Vitaminas,2.22,Sandoz
+1103,Vitamina D tabletas 500mg,Vitaminas,44.67,La Santé
+1104,Vitamina D jarabe 120ml,Vitaminas,78.45,Pfizer
+1105,Vitamina D capsulas 250mg,Vitaminas,31.42,La Santé
+1106,Vitamina D tabletas 500mg,Vitaminas,26.04,MK
+1107,Vitamina D tabletas 500mg,Vitaminas,32.18,Medifarma
+1108,Multivitamínico Adulto jarabe 120ml,Vitaminas,46.03,MK
+1109,Multivitamínico Adulto crema 30g,Vitaminas,29.33,La Santé
+1110,Multivitamínico Adulto jarabe 120ml,Vitaminas,24.33,MK
+1111,Multivitamínico Adulto tabletas 500mg,Vitaminas,68.04,Genfar
+1112,Zinc crema 30g,Vitaminas,29.4,Sandoz
+1113,Zinc tabletas 200mg,Vitaminas,64.94,Bayer
+1114,Zinc tabletas 200mg,Vitaminas,69.5,Sandoz
+1115,Zinc suspensión 60ml,Vitaminas,41.4,Genfar
+1116,Zinc suspensión 60ml,Vitaminas,64.07,Genfar
+1117,Crema hidratante jarabe 120ml,Dermatología,27.7,Pfizer
+1118,Crema hidratante tabletas 200mg,Dermatología,8.42,La Santé
+1119,Crema hidratante crema 30g,Dermatología,26.92,MK
+1120,Crema hidratante crema 30g,Dermatología,23.64,MK
+1121,Crema hidratante tabletas 200mg,Dermatología,3.41,Pfizer
+1122,Crema hidratante tabletas 200mg,Dermatología,65.99,Medifarma
+1123,Bloqueador solar suspensión 60ml,Dermatología,26.81,Sandoz
+1124,Bloqueador solar suspensión 60ml,Dermatología,18.05,Sandoz
+1125,Bloqueador solar suspensión 60ml,Dermatología,67.52,Pfizer
+1126,Bloqueador solar crema 30g,Dermatología,43.71,La Santé
+1127,Bloqueador solar suspensión 60ml,Dermatología,11.49,MK
+1128,Ungüento antibiótico tabletas 200mg,Dermatología,26.51,Genfar
+1129,Ungüento antibiótico jarabe 120ml,Dermatología,35.68,La Santé
+1130,Ungüento antibiótico tabletas 200mg,Dermatología,3.0,Sandoz
+1131,Ungüento antibiótico crema 30g,Dermatología,67.04,Genfar
+1132,Ungüento antibiótico suspensión 60ml,Dermatología,33.31,MK
+1133,Ungüento antibiótico tabletas 200mg,Dermatología,13.36,MK
